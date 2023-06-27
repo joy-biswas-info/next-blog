@@ -1,0 +1,23 @@
+.container{
+height: 100px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.log0{
+    font-weight: bold;
+    font-size: 22px;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.logout{
+    padding: 8px;
+    background-color: #53c28b;
+    color: #fff;
+    font-weight: 600;
+    border: 0;
+
+}
