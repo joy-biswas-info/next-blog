@@ -29,4 +29,11 @@ a{
   display: flex;
   flex-direction: column;  
 }
+button{
+  cursor: pointer;
+  border: none;
+  color: #bbb;
+  font-weight: 600;
+  border-radius: 5px;
+}
 
