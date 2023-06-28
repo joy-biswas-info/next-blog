@@ -13,7 +13,6 @@ export default function Home() {
       <div className={styles.item}>
       <Image src={HERO} alt='joy Biswas' className={styles.image}/>
       </div>
-
     </main>
   )
 }
